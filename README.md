@@ -4,4 +4,4 @@
 - I'm currently working on my personal Website and in the future i want to develop a Discord Bot.
 
 - You can contact me here:
-- Discord: Vaxind#8383
+    Discord: Vaxind#8383
